@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-21",
+  "sources": [
+    {
+      "title": "Zhang and Zhang, J. Algebra 322 (2009), 373-409, published version",
+      "source_filename": "2009-Double extension regular algebras of type (14641) (1)(1).pdf",
+      "sha256": "e2d78de389cac43325c06f59504ab5ee7b7fa399b6fbefc6067786bd31e5637a",
+      "size_bytes": 406835
+    },
+    {
+      "title": "Gómez and Venegas, Polynomial identities and primitivity in double extension regular algebras of type (14641)",
+      "source_filename": "Texto pegado(20261121-164419).txt",
+      "sha256": "798f76ed017db3d950b92f3b1aece3eca4391b140d73697e6c51e2e4db2cb3d3",
+      "size_bytes": 148260
+    }
+  ],
+  "policy": "Source files are identified for provenance but are not redistributed."
+}
