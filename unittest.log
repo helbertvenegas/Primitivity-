@@ -1,0 +1,40 @@
+test_checker_import_boundary (test_certificates.CertificateTests.test_checker_import_boundary) ... ok
+test_claim_contract_rejects_count_only_coverage (test_certificates.CertificateTests.test_claim_contract_rejects_count_only_coverage) ... ok
+test_exhaustive_parity_partition_mutation_rejected (test_certificates.CertificateTests.test_exhaustive_parity_partition_mutation_rejected) ... ok
+test_general_center_parametrization_mutation_rejected (test_certificates.CertificateTests.test_general_center_parametrization_mutation_rejected) ... ok
+test_independent_full_bundle (test_certificates.CertificateTests.test_independent_full_bundle) ... ok
+test_kernel_completeness_mutation_rejected (test_certificates.CertificateTests.test_kernel_completeness_mutation_rejected) ... ok
+test_laurent_action_scalar_mutation_rejected (test_certificates.CertificateTests.test_laurent_action_scalar_mutation_rejected) ... ok
+test_projector_mutation_rejected (test_certificates.CertificateTests.test_projector_mutation_rejected) ... ok
+test_quotient_and_fraction_arithmetic (test_certificates.CertificateTests.test_quotient_and_fraction_arithmetic) ... ok
+test_smith_witness_mutation_rejected (test_certificates.CertificateTests.test_smith_witness_mutation_rejected) ... ok
+test_source_mutation_rejected (test_certificates.CertificateTests.test_source_mutation_rejected) ... ok
+test_all_closed_models_work_above_old_cutoffs (test_completion.CompletionTests.test_all_closed_models_work_above_old_cutoffs) ... ok
+test_c_is_reported_as_open_with_exact_module_reduction (test_completion.CompletionTests.test_c_is_reported_as_open_with_exact_module_reduction) ... ok
+test_center_lattice_with_composite_modulus (test_completion.CompletionTests.test_center_lattice_with_composite_modulus) ... ok
+test_conditional_orbit_keeps_other_parameter_free (test_completion.CompletionTests.test_conditional_orbit_keeps_other_parameter_free) ... ok
+test_coordinate_inverse_has_correct_coefficient (test_completion.CompletionTests.test_coordinate_inverse_has_correct_coefficient) ... ok
+test_dg_central_construction_accepts_arbitrary_order (test_completion.CompletionTests.test_dg_central_construction_accepts_arbitrary_order) ... ok
+test_f_i_degree_and_table_bound_are_distinct (test_completion.CompletionTests.test_f_i_degree_and_table_bound_are_distinct) ... ok
+test_invalid_nontorsion_and_inexact_inputs_rejected (test_completion.CompletionTests.test_invalid_nontorsion_and_inexact_inputs_rejected) ... ok
+test_l_first_sign_matches_defining_relations (test_completion.CompletionTests.test_l_first_sign_matches_defining_relations) ... ok
+test_large_odd_parity_branch_without_enumeration (test_completion.CompletionTests.test_large_odd_parity_branch_without_enumeration) ... ok
+test_torus_cocycle_inverse_and_associativity (test_completion.CompletionTests.test_torus_cocycle_inverse_and_associativity) ... ok
+test_w_z_equal_parameters_and_duality (test_completion.CompletionTests.test_w_z_equal_parameters_and_duality) ... ok
+test_both_parameter_branches (test_regressions.RegressionTests.test_both_parameter_branches) ... ok
+test_degenerate_member_does_not_use_singular_monomial_basis (test_regressions.RegressionTests.test_degenerate_member_does_not_use_singular_monomial_basis) ... ok
+test_invalid_parameters_and_floats (test_regressions.RegressionTests.test_invalid_parameters_and_floats) ... ok
+test_mutated_source_matrix_is_detected (test_regressions.RegressionTests.test_mutated_source_matrix_is_detected) ... ok
+test_noncommutative_order_is_not_commutative_sympy (test_regressions.RegressionTests.test_noncommutative_order_is_not_commutative_sympy) ... ok
+test_notebook_sources_synchronized (test_regressions.RegressionTests.test_notebook_sources_synchronized) ... ok
+test_rational_phases_and_invalid_torus_inputs (test_regressions.RegressionTests.test_rational_phases_and_invalid_torus_inputs) ... ok
+test_registry_complete (test_regressions.RegressionTests.test_registry_complete) ... ok
+test_root_orders_and_unknown_status (test_regressions.RegressionTests.test_root_orders_and_unknown_status) ... ok
+test_smith_independent_brute_force (test_regressions.RegressionTests.test_smith_independent_brute_force) ... ok
+test_smith_unimodular_basis_and_lift (test_regressions.RegressionTests.test_smith_unimodular_basis_and_lift) ... ok
+test_twist_needed (test_regressions.RegressionTests.test_twist_needed) ... ok
+
+----------------------------------------------------------------------
+Ran 35 tests in 9.072s
+
+OK
