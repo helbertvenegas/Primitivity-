@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "Please cite the companion manuscript and Zhang and Zhang (2009) when using these computations."
+type: software
+title: "Exact PI verification for double Ore extensions of type (14641)"
+version: 0.3.0
+authors:
+  - family-names: "Gómez"
+    given-names: "James"
+  - family-names: "Venegas"
+    given-names: "Helbert"
+references:
+  - type: article
+    title: "Double extension regular algebras of type (14641)"
+    authors:
+      - family-names: "Zhang"
+        given-names: "James J."
+      - family-names: "Zhang"
+        given-names: "Jun"
+    journal: "Journal of Algebra"
+    year: 2009
+    volume: "322"
+    start: 373
+    end: 409
+    doi: "10.1016/j.jalgebra.2009.03.041"
